@@ -1,0 +1,23 @@
+header li{
+    background-color:#424242;
+    margin-left: 30px;
+    margin-right: 30px;
+    width:33%;
+    text-align:center;
+    padding-bottom: 25px; 
+    color: white;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header li{display: inline-block;
+}
+body ul{margin: 0;
+    padding: 0;
+}
+h1;h2{color: red}
+header li{
+    list-style: none
+}
