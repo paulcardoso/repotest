@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon site</title>
+    <link rel="stylesheet" href="Style.CSS">
+    </head
+<body>
+   
+  <header> 
+        <nav>
+           <ul>
+               <li> <a href="Acceuil.html"></a>Accueil</li>
+          <li> <a href="Parcour et Compétences.html"></a>Parcour et Compétences</li>
+           <li> <a href="Contacts.html"></a>Contacts</li>
+             </ul>
+                     <h1>Cardoso Paul Etudiant en Communication</h1> 
+   <h2>Curiculum Vité en ligne</h2>
+     </nav>
+    </header>
+   <p>Bienvenue sur mon CV en ligne. 
+       Vous y retrouverez sur cette page mon parcour Scolaire et Professionel <a href="parcour.html"></a> mais aussi savoir comment me contacté <a href="contacts.html"></a>. Bonne visite !</p>.
+   
+   
+</body>
+</html>
